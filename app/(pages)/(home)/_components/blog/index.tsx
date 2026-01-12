@@ -75,7 +75,7 @@ export const Blog = () => {
                                         {item.title}
                                     </h6>
                                     <p className="GolosText">
-                                        {item.desc}
+                                        {item.description}
                                     </p>
                                 </div>
                             </div>
