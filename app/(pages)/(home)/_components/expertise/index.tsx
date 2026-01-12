@@ -320,7 +320,7 @@ const data = [
 
 export const Expertise = () => {
     return (
-        <section className="mt-30 md:mt-56 pt-30 md:pt-56 px-[4%] md:px-[8%] lg:px-[5%] bg-[#FFA07A]">
+        <section className="mt-30 md:mt-56 pt-30 md:pt-56 px-[4%] md:px-[8%] lg:px-[5%] bg-[#CD950C]">
             <div>
                 <Tag title="Nossa Expertise" />
                 <div className="py-5">
